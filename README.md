@@ -4,6 +4,8 @@ CMPUT404-project-socialdistribution
 
 CMPUT404-project-socialdistribution
 
+Video Demo Url: https://youtu.be/tT1uwRmQFME
+
 See project.org (plain-text/org-mode) for a description of the project.
 
 Make a distributed social network!
